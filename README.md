@@ -2,11 +2,11 @@
 Welcome to our Clean Energy Startup Landing Page! We are excited to introduce our innovative company that is dedicated to revolutionizing the energy industry with sustainable and clean energy solutions. This README will provide you with an overview of our startup and the information you need to navigate our landing page effectively.
 
 ## Table of Contents
-1 About Us
-2 Our Mission
-3 Our Products and Services
-4 Technologies
-5 Live Server
+1. About Us
+2. Our Mission
+3. Our Products and Services
+4. Technologies
+5. Live Server
 
 ## 1. About Us
 At our Clean Energy Startup, we believe that the transition to clean energy is essential for a sustainable future. We are a team of passionate professionals who are committed to developing and implementing cutting-edge solutions that address the challenges posed by traditional energy sources.
