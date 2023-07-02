@@ -5,8 +5,8 @@ Welcome to our Clean Energy Startup Landing Page! We are excited to introduce ou
 1 About Us
 2 Our Mission
 3 Our Products and Services
-4 How to Get Involved
-5 Contact Information
+4 Technologies
+5 Live Server
 
 ## 1. About Us
 At our Clean Energy Startup, we believe that the transition to clean energy is essential for a sustainable future. We are a team of passionate professionals who are committed to developing and implementing cutting-edge solutions that address the challenges posed by traditional energy sources.
@@ -23,21 +23,16 @@ Our mission is to accelerate the adoption of clean energy technologies by provid
 
 * Consulting Services: Our experienced team offers consulting services to assist organizations in their transition to clean energy. We provide tailored strategies, feasibility studies, and implementation plans to ensure a smooth and successful transition.
 
-## 4. How to Get Involved
-We believe that the transition to clean energy requires collective effort. Here are a few ways you can get involved:
+## 4. Technologies
+* HTML/CSS
+* Bootstrap
+* javascript
+* animate.css library
 
-Invest: Join us as an investor to support our mission and be a part of the clean energy revolution.
+## 5. Live Server
 
-Partnerships: Collaborate with us to develop innovative solutions, leverage synergies, and expand the clean energy ecosystem.
+* [GitHub Repo](https://github.com/Lucas-marques-web/Startup-Neo)
+* [Live-Server](https://lucas-marques-web.github.io/Startup-Neo/)
 
-Career Opportunities: We are always seeking talented individuals who share our passion for clean energy. Explore our career opportunities and join our dynamic team.
 
-Stay Updated: Follow us on social media and subscribe to our newsletter to stay up-to-date with our latest developments, events, and industry insights.
-
-## 5. Contact Information
-Thank you for visiting our landing page! If you have any questions, partnership inquiries, or would like to learn more about our products and services, please don't hesitate to reach out to us:
-
-Email: info@neostartup.com
-Phone: +55 99 9999-9999
-We look forward to hearing from you and working together towards a cleaner and sustainable future!
 ### The Future is NEO
